@@ -7,11 +7,23 @@ This is supposed to be a reference in case you forgot what an operator dows, wha
 This ___Is not___ a tutorial for developing your own full applications. That's up to you and your creativity. 
 ***
 
-# Languages
+# Languages/Tools
 
 - Java
 - Python
 - Bash/Linux (coming soon) 
+- Git (coming)
 - C (coming)
 - C++ (coming)
-- Maybe Metasploit (even though it's not a language)
+- HTML/CSS (coming)
+- Javascript (coming)
+- Metasploit (maybe coming)
+
+# Contributing
+
+_Please_ feel free to contribute with your knowledge of whatever languags(s) you know. Just fork the repo, and when you're done, make a pull request and I'll review your changes.
+
+Feel free to:
+
+- Add support for a new language
+- Add to an existing languageaa
